@@ -1,0 +1,9 @@
+C:\Users\jkcpa\Documents\test3\test3.lib\bin\Debug\netstandard2.0\test3.lib.deps.json
+C:\Users\jkcpa\Documents\test3\test3.lib\bin\Debug\netstandard2.0\test3.lib.dll
+C:\Users\jkcpa\Documents\test3\test3.lib\bin\Debug\netstandard2.0\test3.lib.pdb
+C:\Users\jkcpa\Documents\test3\test3.lib\obj\Debug\netstandard2.0\test3.lib.csprojAssemblyReference.cache
+C:\Users\jkcpa\Documents\test3\test3.lib\obj\Debug\netstandard2.0\test3.lib.csproj.CoreCompileInputs.cache
+C:\Users\jkcpa\Documents\test3\test3.lib\obj\Debug\netstandard2.0\test3.lib.AssemblyInfoInputs.cache
+C:\Users\jkcpa\Documents\test3\test3.lib\obj\Debug\netstandard2.0\test3.lib.AssemblyInfo.cs
+C:\Users\jkcpa\Documents\test3\test3.lib\obj\Debug\netstandard2.0\test3.lib.dll
+C:\Users\jkcpa\Documents\test3\test3.lib\obj\Debug\netstandard2.0\test3.lib.pdb

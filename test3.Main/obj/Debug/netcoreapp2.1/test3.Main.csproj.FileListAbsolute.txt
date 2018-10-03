@@ -1,0 +1,14 @@
+C:\Users\jkcpa\Documents\test3\test3.Main\obj\Debug\netcoreapp2.1\test3.Main.csprojAssemblyReference.cache
+C:\Users\jkcpa\Documents\test3\test3.Main\obj\Debug\netcoreapp2.1\test3.Main.csproj.CoreCompileInputs.cache
+C:\Users\jkcpa\Documents\test3\test3.Main\obj\Debug\netcoreapp2.1\test3.Main.AssemblyInfoInputs.cache
+C:\Users\jkcpa\Documents\test3\test3.Main\obj\Debug\netcoreapp2.1\test3.Main.AssemblyInfo.cs
+C:\Users\jkcpa\Documents\test3\test3.Main\bin\Debug\netcoreapp2.1\test3.Main.deps.json
+C:\Users\jkcpa\Documents\test3\test3.Main\bin\Debug\netcoreapp2.1\test3.Main.runtimeconfig.json
+C:\Users\jkcpa\Documents\test3\test3.Main\bin\Debug\netcoreapp2.1\test3.Main.runtimeconfig.dev.json
+C:\Users\jkcpa\Documents\test3\test3.Main\bin\Debug\netcoreapp2.1\test3.Main.dll
+C:\Users\jkcpa\Documents\test3\test3.Main\bin\Debug\netcoreapp2.1\test3.Main.pdb
+C:\Users\jkcpa\Documents\test3\test3.Main\bin\Debug\netcoreapp2.1\test3.lib.dll
+C:\Users\jkcpa\Documents\test3\test3.Main\bin\Debug\netcoreapp2.1\test3.lib.pdb
+C:\Users\jkcpa\Documents\test3\test3.Main\obj\Debug\netcoreapp2.1\test3.Main.csproj.CopyComplete
+C:\Users\jkcpa\Documents\test3\test3.Main\obj\Debug\netcoreapp2.1\test3.Main.dll
+C:\Users\jkcpa\Documents\test3\test3.Main\obj\Debug\netcoreapp2.1\test3.Main.pdb
